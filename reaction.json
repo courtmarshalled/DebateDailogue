@@ -1,0 +1,557 @@
+{
+  "topic": "Does the Unicorn Break the Proof of God?",
+  "crux": "Does the idea of the greatest being force it to be real, or only describe what it would be like?",
+  "sides": {
+    "blue": {
+      "defends": "the case against the proof",
+      "title": "CHALLENGER"
+    },
+    "red": {
+      "defends": "the case for the proof",
+      "title": "DEFENDER"
+    }
+  },
+  "source": {
+    "video_id": "T6YJWoceB6U",
+    "title": "Atheist Plays Devil's Advocate for God's Existence (w/ Alex O’Connor) | Soul Boom",
+    "channel": "Soul Boom w/ Rainn Wilson",
+    "url": "https://www.youtube.com/watch?v=T6YJWoceB6U",
+    "duration": 904.63,
+    "local_video_path": "source/source_hq.mp4"
+  },
+  "span": {
+    "start": 33.78,
+    "start_with": "Depends what you mean.",
+    "end": 250.57
+  },
+  "intro": [
+    {
+      "say": "'No observation.' Hold onto that, because it's what makes this argument so strange. Alex O'Connor doesn't believe in God, yet this is his favourite argument for God. It says you can prove God exists the way you prove a triangle has three sides. No telescope. No fossils. No burning bush. Just you, in a chair, thinking hard enough. And it's nearly a thousand years old.",
+      "points": [
+        {
+          "text": "An atheist's favourite argument for God",
+          "cue": "his favourite argument for God"
+        },
+        {
+          "text": "No telescope, no fossils: just thinking",
+          "cue": "thinking hard enough"
+        },
+        {
+          "text": "Nearly a thousand years old",
+          "cue": "nearly a thousand years old"
+        }
+      ]
+    },
+    {
+      "say": "Ever since, people have suspected a trick, and struggled to say where it is. The philosopher Bertrand Russell was won over by it as a young man. In 1894, walking back from buying tobacco, he threw the tin in the air and shouted, 'Great Scott, the ontological argument is sound!' He changed his mind later. But finding the flaw, he admitted, is harder than feeling it.",
+      "points": [
+        {
+          "text": "Russell, 1894: 'the ontological argument is sound!'",
+          "cue": "the ontological argument is sound"
+        },
+        {
+          "text": "Later: easier to feel the flaw than to find it",
+          "cue": "finding the flaw"
+        }
+      ]
+    },
+    {
+      "say": "Today, a unicorn tries to break it. Partway through, Alex faces the classic comeback: run the same steps on a unicorn. If they prove a perfect unicorn, something's gone wrong. It's a test as old as this argument. Copy the steps, swap in something silly, and see if it still works. Call it the evil-twin test. By the end, you'll see which step the whole fight comes down to.",
+      "points": [
+        {
+          "text": "The evil-twin test: copy the steps, swap in something silly",
+          "cue": "swap in something silly"
+        },
+        {
+          "text": "If it proves a perfect unicorn, something's gone wrong",
+          "cue": "something's gone wrong"
+        }
+      ]
+    },
+    {
+      "say": "Hi, I'm Jon. Whenever an argument sounds convincing, I want to hear the strongest reply. This is from Rainn Wilson's show, Soul Boom. Red makes the best case for the argument. Blue makes the best case against it. 'The greatest conceivable being' means something so great that nothing greater could be thought of. The argument leans on one disputed idea: something real is greater than the same thing only imagined.",
+      "points": [
+        {
+          "text": "Red: the best case for the argument",
+          "cue": "Red makes the best case for the argument"
+        },
+        {
+          "text": "Blue: the best case against it",
+          "cue": "Blue makes the best case against it"
+        },
+        {
+          "text": "Disputed idea: real is greater than only imagined",
+          "cue": "something real is greater"
+        },
+        {
+          "text": "'Greatest conceivable being': nothing greater could be thought of",
+          "cue": "nothing greater could be thought of"
+        }
+      ]
+    }
+  ],
+  "pauses": [
+    {
+      "at": 89.72,
+      "just_said": "created a God in their minds that they falsely worship.",
+      "question": "Can a mind even hold the greatest being?",
+      "lines": [
+        {
+          "speaker": "blue",
+          "move": "steelman",
+          "text": "Rainn's point has a Catholic version. The great Catholic thinker Thomas Aquinas said 'God exists' may be obvious in itself, but not to us, because we don't know what God is. You can say 'the greatest conceivable being.' That doesn't mean your mind holds the thing those words point to.",
+          "emphasis": [
+            "obvious in itself, but not to us"
+          ],
+          "footnote": "[11] Aquinas, ST I q.2 a.1: 'God exists' is self-evident in itself, not to us, since we don't know God's essence."
+        },
+        {
+          "speaker": "red",
+          "move": "reply",
+          "text": "Anselm can grant that God is beyond us. But the proof never asks you to picture God. Even someone who denies God understands the phrase when he hears it. That's all the argument needs to get started.",
+          "emphasis": [
+            "the proof never asks you to picture God"
+          ],
+          "footnote": "[1] Proslogion 2: even the fool, who denies God, understands what he hears."
+        },
+        {
+          "speaker": "blue",
+          "move": "counterexample",
+          "text": "Understanding words is cheap. 'The biggest possible number' makes sense as a phrase, yet no such number exists. The philosopher C. D. Broad warned Anselm's phrase could be just as empty. Understanding it doesn't show it names anything that could exist.",
+          "emphasis": [
+            "Understanding words is cheap"
+          ],
+          "footnote": "[12] IEP §4 quotes Broad: the phrase may be 'meaningless verbiage like the phrase the greatest possible integer.'"
+        },
+        {
+          "speaker": "red",
+          "move": "concession",
+          "text": "Fair. Understanding the words only gets the argument started. Anselm goes further: he says that if you can truly think this being, it must be real. That's what his next steps have to show. And numbers have no top. Whether greatness has one is still open.",
+          "emphasis": [
+            "it must be real"
+          ],
+          "footnote": "[5, 12] Anselm, Reply ch. 1: if it can be conceived at all, it must exist. Whether it's possible stays contested; IEP §4."
+        }
+      ],
+      "stop": "Alex isn't done, but Rainn cuts in, and it's a good question. His Bahá'í faith calls God an unknowable essence. So can a human mind even hold something that great? Or do we shrink God to fit our heads, then worship the small one? Blue, make Rainn's objection as strong as it can be.",
+      "stop_points": [
+        {
+          "text": "Rainn: can a human mind hold something that great?",
+          "cue": "can a human mind even hold something that great"
+        },
+        {
+          "text": "Or do we shrink God to fit our heads?",
+          "cue": "shrink God to fit our heads"
+        }
+      ],
+      "takeaway": "So Red says understanding the words is enough to get started. Blue says words can be empty. Whether these words name anything that could exist is still open.",
+      "takeaway_points": [
+        {
+          "text": "Red: understanding the words is enough to start",
+          "cue": "understanding the words is enough"
+        },
+        {
+          "text": "Blue: words can be empty",
+          "cue": "words can be empty"
+        },
+        {
+          "text": "Open: do these words name anything that could exist?",
+          "cue": "name anything that could exist"
+        }
+      ]
+    },
+    {
+      "at": 146.81,
+      "just_said": "Therefore, this god must exist in reality.",
+      "question": "Where does the proof get its force?",
+      "crux": true,
+      "lines": [
+        {
+          "speaker": "red",
+          "move": "formalize",
+          "text": "Picture a being so great that nothing greater could be thought. Now say it exists only in our minds. But a real one would be greater, so we could think of something greater. That contradicts our starting point. So, says Anselm, it can't exist only in the mind.",
+          "emphasis": [
+            "contradicts our starting point"
+          ],
+          "footnote": "[1, 12] Anselm, Proslogion 2; Himma, IEP 'Anselm: Ontological Argument' §2a sets out the steps. Disputed, not a result."
+        },
+        {
+          "speaker": "blue",
+          "move": "hidden_premise",
+          "text": "Two claims need defending. First, that being real makes something greater. Second, that the greatest power, knowledge, and goodness can fit together in one being. If they can't, the idea is as empty as 'the biggest possible number.'",
+          "emphasis": [
+            "Two claims need defending"
+          ],
+          "footnote": "[2, 12] Leibniz, Discourse §23: establish possibility. Broad's compatibility challenge is quoted in IEP §4, part IV."
+        },
+        {
+          "speaker": "red",
+          "move": "reply",
+          "text": "The philosopher Leibniz tried to prove they fit. He treated perfections as simple, positive qualities with no limits. He thought any clash between them would have to be proved by breaking them down. They can't be broken down, so he concluded they all fit together in one being.",
+          "emphasis": [],
+          "footnote": "[3, 8] Leibniz (1676): perfections are simple and positive; a clash would need proof by analysis, so none can hold. Contested."
+        },
+        {
+          "speaker": "blue",
+          "move": "hidden_premise",
+          "text": "Then the question is whether power, knowledge and goodness really can't be broken down. Calling them perfections doesn't make it so. Your argument depends on that assumption. What supports it?",
+          "emphasis": [
+            "What supports it?"
+          ],
+          "footnote": "[12] Related: Broad on compatible perfections, quoted in IEP §4, part IV. This line is our reconstruction."
+        }
+      ],
+      "stop": "That went by fast, so notice its shape. It's a proof by contradiction: assume the opposite, and watch it fall apart. A detective does it with an alibi. If he'd been at the scene, he couldn't be on camera across town. Here, the opposite is 'God exists only in your head.' And notice the jump. We started with a thought and ended with a claim about the world. Red, lay it out step by step. Blue, find the steps doing the heavy lifting.",
+      "stop_points": [
+        {
+          "text": "Proof by contradiction: assume the opposite, watch it fall apart",
+          "cue": "assume the opposite, and watch it fall apart"
+        },
+        {
+          "text": "The opposite here: 'God exists only in your head'",
+          "cue": "God exists only in your head"
+        },
+        {
+          "text": "The jump: from a thought to a claim about the world",
+          "cue": "a claim about the world"
+        }
+      ],
+      "takeaway": "So the proof owes us two things: that real is greater, and that a perfect being is possible. Red's case for the second rests on assumptions Blue challenges.",
+      "takeaway_points": [
+        {
+          "text": "The proof owes: real is greater, and a perfect being is possible",
+          "cue": "a perfect being is possible"
+        },
+        {
+          "text": "Red's answer rests on assumptions Blue challenges",
+          "cue": "rests on assumptions Blue challenges"
+        }
+      ]
+    },
+    {
+      "at": 181.2,
+      "just_said": "the greatest conceivable unicorn has limited our scope, right?",
+      "question": "What does the unicorn actually test?",
+      "lines": [
+        {
+          "speaker": "blue",
+          "move": "steelman",
+          "text": "The unicorn is a new take on Gaunilo's test. He used a 'lost island' said to beat every other land. If real beats imaginary, the island must exist too. If we won't accept that, which premise do we reject? And why doesn't it fail for God?",
+          "emphasis": [
+            "which premise do we reject"
+          ],
+          "footnote": "[4, 12] Gaunilo, In Behalf of the Fool §6: the lost island; IEP §2b quotes the parody. The premise challenge is our framing."
+        },
+        {
+          "speaker": "red",
+          "move": "reply",
+          "text": "The philosopher Alvin Plantinga has a strong reply. An island can always get better: add one more palm tree. So there's no greatest island. But God's greatness is things like knowledge, and knowledge has a top. Knowing every truth leaves nothing more to know.",
+          "emphasis": [],
+          "footnote": "[8, 12] SEP §11 credits Plantinga (God, Freedom, and Evil, 1974); IEP §2b: island greatness has no 'intrinsic maximum.'"
+        },
+        {
+          "speaker": "blue",
+          "move": "counterexample",
+          "text": "Maybe. But more palm trees don't always make an island better. Past a point they crowd it. Island goods trade off, so there might be a best balance. You've shown a difference that might matter, not that it holds.",
+          "emphasis": [
+            "there might be a best balance"
+          ],
+          "footnote": "[8] SEP §11: extra palm trees can overcrowd an island, and island goods trade off. Plantinga's reply remains contested."
+        }
+      ],
+      "stop": "And there's the unicorn. Alex didn't invent it. The evil-twin test showed up almost as soon as Anselm wrote his proof. A monk named Gaunilo wrote a reply called 'On Behalf of the Fool.' He was a believer, writing as the fool who says there's no God. So, a believer playing devil's advocate against God. It's Alex's role in reverse. Blue, give the strongest version of the objection.",
+      "stop_points": [
+        {
+          "text": "Gaunilo: 'On Behalf of the Fool', soon after Anselm",
+          "cue": "On Behalf of the Fool"
+        },
+        {
+          "text": "A believer arguing the fool's side: Alex's role in reverse",
+          "cue": "Alex's role in reverse"
+        }
+      ],
+      "takeaway": "So Red's way out needs God's kind of greatness to have a ceiling and an island's not to. Blue isn't sure islands work that way. Now Alex tries a different way out.",
+      "takeaway_points": [
+        {
+          "text": "Red's way out: God's greatness has a ceiling, an island's doesn't",
+          "cue": "have a ceiling"
+        },
+        {
+          "text": "Blue: islands might have a best balance",
+          "cue": "Blue isn't sure islands work that way"
+        }
+      ]
+    },
+    {
+      "at": 239.17,
+      "just_said": "a better great making property of a unicorn, right?",
+      "question": "Does being real add a better feature?",
+      "crux": true,
+      "lines": [
+        {
+          "speaker": "red",
+          "move": "steelman",
+          "text": "The claim isn't that a real thing has an extra feature. It's that a real thing is greater than the same thing existing only as an idea. A real cure beats an imagined one. A God who exists only in a story can't act. So if greatness counts, being real counts too.",
+          "emphasis": [
+            "a real thing is greater than the same thing existing only as an idea"
+          ],
+          "footnote": "[1, 12] Proslogion 2; IEP §2a premise 3: real and in the mind beats mind only. The cure example is the episode's own."
+        },
+        {
+          "speaker": "blue",
+          "move": "objection",
+          "text": "The philosopher Immanuel Kant tested that with coins. Describe a hundred coins: their number, metal, and value. That description is the same whether the coins are real or imagined. Saying they exist doesn't add a feature. It says something matches the description.",
+          "emphasis": [
+            "something matches the description"
+          ],
+          "footnote": "[6, 12] Kant, Critique of Pure Reason A599/B627: a hundred thalers (coins here); IEP §2d explains the objection."
+        },
+        {
+          "speaker": "red",
+          "move": "reply",
+          "text": "Kant admits real coins make you richer than imagined ones. And Anselm isn't adding a feature to a description. He's comparing two cases: the being only in the mind, and the same being also real. The second is greater. That's a comparison, not a feature.",
+          "emphasis": [
+            "a comparison, not a feature"
+          ],
+          "footnote": "[6, 1] Kant A599/B627 grants the wealth difference; using it to defend Anselm is the episode's reconstruction, and disputed."
+        }
+      ],
+      "stop": "Hang on, because that was subtle. A 'great-making property' is just a feature that makes something better. So what makes a unicorn great? The mane. The horn. Maybe a bit of sparkle. And the one in your head has all of that already. Making it real doesn't sharpen the horn. It's the same unicorn, just there. But the proof needs real to beat imagined. If being real doesn't make a better unicorn, why would it make a greater God? Red, that's yours to answer. Why would being real make something greater? Give an example.",
+      "stop_points": [
+        {
+          "text": "'Great-making property' = a feature that makes something better",
+          "cue": "a feature that makes something better"
+        },
+        {
+          "text": "Making it real doesn't sharpen the horn",
+          "cue": "Making it real doesn't sharpen the horn"
+        },
+        {
+          "text": "The proof needs real to beat imagined",
+          "cue": "the proof needs real to beat imagined"
+        }
+      ],
+      "takeaway": "So Red says being real isn't an extra feature. It's a comparison: the same being, real or only imagined. Now Alex makes his own move.",
+      "takeaway_points": [
+        {
+          "text": "Red: being real isn't an extra feature, it's a comparison",
+          "cue": "It's a comparison"
+        },
+        {
+          "text": "The same being, real or only imagined",
+          "cue": "real or only imagined"
+        }
+      ]
+    },
+    {
+      "at": 250.47,
+      "just_said": "all properties a thing can have, including levels of existence.",
+      "question": "Is the contradiction in the idea or the world?",
+      "crux": true,
+      "lines": [
+        {
+          "speaker": "blue",
+          "move": "distinguish",
+          "text": "We can compare those cases. But a comparison doesn't put anything in the world. Say a triangle has no angles, and you contradict yourself. Say there's no triangle on this page, and you don't. Why can't I deny God the same way?",
+          "emphasis": [
+            "a comparison doesn't put anything in the world"
+          ],
+          "footnote": "[6, 10] Kant A594/B622: drop triangle and angles together. Hume, Dialogues IX: what we can think exists, we can think doesn't."
+        },
+        {
+          "speaker": "red",
+          "move": "reply",
+          "text": "Because this idea isn't a triangle. A triangle's angles are just its shape. This idea is a being nothing could top. A version missing real existence could be topped by the same being with it. So deny the being, and you've kept the idea while removing what makes it the greatest.",
+          "emphasis": [
+            "removing what makes it the greatest"
+          ],
+          "footnote": "[9] Descartes, Meditation V ¶¶8–10: existence can't be separated from God's essence, as a valley can't from a mountain. Parallel."
+        },
+        {
+          "speaker": "blue",
+          "move": "hidden_premise",
+          "text": "But denying it doesn't describe a lesser version. It says nothing matches the idea. The idea stays the greatest; there's just no example. That's Kant's point again: saying something exists adds nothing to the description. So where's the contradiction?",
+          "emphasis": [
+            "doesn't describe a lesser version"
+          ],
+          "footnote": "[6] Kant, Critique of Pure Reason: 'the real contains no more than the possible.'"
+        }
+      ],
+      "stop": "'Levels of existence.' Listen to that. Alex talks as if existing comes in amounts, like power or kindness. Kant's coins said existing isn't on the list of features at all. It's whether anything matches the list. Red's smart fix is to skip amounts and just compare a real case with an imagined one. So let's give Red that. Blue, assume the comparison works. What's still missing between the idea and a real God?",
+      "stop_points": [
+        {
+          "text": "Does existing come in amounts, like power?",
+          "cue": "existing comes in amounts"
+        },
+        {
+          "text": "Kant: existing isn't a feature; it's whether anything matches",
+          "cue": "whether anything matches the list"
+        },
+        {
+          "text": "Red's fix: compare a real case with an imagined one",
+          "cue": "compare a real case with an imagined one"
+        }
+      ],
+      "takeaway": "So it comes down to one sentence: 'God doesn't exist.' Blue says that just means nothing matches the idea. Red says this is the one idea where that can't be true.",
+      "takeaway_points": [
+        {
+          "text": "Crux: what does 'God doesn't exist' say?",
+          "cue": "God doesn't exist"
+        },
+        {
+          "text": "Blue: nothing matches the idea",
+          "cue": "nothing matches the idea"
+        },
+        {
+          "text": "Red: this is the one idea where that can't be true",
+          "cue": "the one idea where that can't be true"
+        }
+      ]
+    }
+  ],
+  "wrap": "So, did the unicorn break the proof? Alex suggests it didn't. The horn and mane are the same, real or imagined, so a real unicorn isn't a better unicorn. But the greatest possible thing maxes out everything, maybe even existing. There's a second question. Even if a real being is greater, must anything match the idea? Red says an empty idea of the greatest being contradicts itself. Blue says it's an idea with no match. That's still open. And if the proof fails, that doesn't disprove God. This road just doesn't get there. So keep the unicorn's trick. When an argument feels airtight, copy the steps and swap in something silly. If it proves something you know is false, something's broken. Then find where: in the copy, or the original. So here's the question to keep: a real unicorn isn't a better unicorn. Is a real God a greater God?",
+  "packaging": {
+    "titles": [
+      "Can You Prove God Just by Thinking? A Unicorn Says Maybe Not",
+      "A Unicorn Walks Into a Proof of God",
+      "Alex O'Connor's Favourite Proof of God vs. a Unicorn",
+      "The 1,000-Year-Old Proof of God You Can Do From an Armchair",
+      "Do Unicorns Disprove God?"
+    ],
+    "thumbnail_text": "PROVE GOD BY THINKING?",
+    "thumbnail_at": 144.8,
+    "description": "Alex O'Connor doesn't believe in God, but the ontological argument is his favourite argument for God. It claims that if you think carefully about a being so great that nothing greater could be thought of, you'll see it has to exist. On Soul Boom, Rainn Wilson asks whether our minds are even big enough for it. Then a unicorn puts it to the test. Two AI debaters give both sides their strongest case, and you'll leave with one question to ask any argument like this. Sources are on screen and listed below. Original clip: Soul Boom w/ Rainn Wilson, https://www.youtube.com/watch?v=T6YJWoceB6U"
+  },
+  "cold_open": {
+    "at": 44.25,
+    "just_said": "It doesn't require any observation."
+  },
+  "references": [
+    {
+      "id": "1",
+      "citation": "Anselm, Proslogion (c. 1078), Sidney Norton Deane translation",
+      "url": "https://www.ccel.org/ccel/anselm/basic_works.iii.iii.html",
+      "locator": "ch. 2",
+      "source_type": "primary",
+      "support_and_limits": "The attribution is supported; the inference from conceived greatness to existence is disputed.",
+      "verification": "Relevant source text inspected with web search/open; 2026-10-22"
+    },
+    {
+      "id": "2",
+      "citation": "G. W. Leibniz, Discourse on Metaphysics (1686)",
+      "url": "https://www.earlymoderntexts.com/assets/pdfs/leibniz1686d.pdf",
+      "locator": "§23; Bennett modernization",
+      "source_type": "primary, modernized",
+      "support_and_limits": "Distinguishes using words from establishing that their object is possible.",
+      "verification": "Relevant source text inspected with web search/open; 2026-10-22"
+    },
+    {
+      "id": "3",
+      "citation": "G. W. Leibniz, That a Most Perfect Being Exists (1676)",
+      "url": "https://www.leibniz-translations.com/perfectbeing",
+      "locator": "Akademie VI.3, pp. 578–579",
+      "source_type": "primary, translated",
+      "support_and_limits": "Compatibility proof assumes simple positive perfections and a thesis about necessary truths.",
+      "verification": "Indexed full argument inspected; direct page is JavaScript-only."
+    },
+    {
+      "id": "4",
+      "citation": "Gaunilo, In Behalf of the Fool, Deane translation",
+      "url": "https://www.ccel.org/ccel/anselm/basic_works.v.i.html",
+      "locator": "§6",
+      "source_type": "primary",
+      "support_and_limits": "Lost-island parody; whether it matches Anselm’s argument is contested.",
+      "verification": "Relevant source text inspected with web search/open; 2026-10-22"
+    },
+    {
+      "id": "5",
+      "citation": "Anselm, Reply to Gaunilo (Apologetic), Fordham Medieval Sourcebook (Deane translation)",
+      "url": "https://sourcebooks.web.fordham.edu/basis/anselm-gaunilo.asp",
+      "locator": "ch. 1 (conceivable, so it exists) and ch. 3 (the island)",
+      "source_type": "primary",
+      "support_and_limits": "Ch. 1 argues that if the being can be conceived, it must exist; ch. 3 answers the island. Not an endorsement of the modern unicorn example.",
+      "verification": "Retrieved with pipeline retrieve-source; chs. 1 and 3 inspected; 2026-10-30"
+    },
+    {
+      "id": "6",
+      "citation": "Immanuel Kant, Critique of Pure Reason (1781/1787), Meiklejohn translation",
+      "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+      "locator": "A592–602/B620–630, impossibility of an ontological proof",
+      "source_type": "primary",
+      "support_and_limits": "Triangle and hundred-thalers argument; this translation calls the thalers dollars.",
+      "verification": "Relevant source text inspected with web search/open; 2026-10-22"
+    },
+    {
+      "id": "8",
+      "citation": "Graham Oppy, Joshua Rasmussen & Joseph Schmid, Ontological Arguments, Stanford Encyclopedia of Philosophy (substantive revision 2024)",
+      "url": "https://plato.stanford.edu/entries/ontological-arguments/",
+      "locator": "introduction and §11, Parodies",
+      "source_type": "scholarly reference",
+      "support_and_limits": "Secondary attribution of Russell (1946, p. 586) and Plantinga’s island reply; includes Oppy’s objections.",
+      "verification": "Retrieved with pipeline retrieve-source; author line and revision date confirmed; 2026-10-24"
+    },
+    {
+      "id": "9",
+      "citation": "René Descartes, Meditations on First Philosophy (1641), Meditation V, John Veitch translation",
+      "url": "https://www.logicmuseum.com/ontological/descartesontologicalmed5.htm",
+      "locator": "Meditation V, ¶¶8–10 (mountain and valley; the objection and Descartes's reply)",
+      "source_type": "primary, translated",
+      "support_and_limits": "Descartes's own claim that existence is inseparable from God's essence; the episode uses it as a parallel to Red's reply, not as Anselm's view.",
+      "verification": "Retrieved with pipeline retrieve-source; relevant passage inspected; 2026-10-24"
+    },
+    {
+      "id": "10",
+      "citation": "David Hume, Dialogues Concerning Natural Religion (1779)",
+      "url": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+      "locator": "Part IX (Cleanthes)",
+      "source_type": "primary",
+      "support_and_limits": "Parallel objection to a priori proofs of existence, voiced by the character Cleanthes: 'Whatever we conceive as existent, we can also conceive as non-existent.' It does not source Kant's triangle or Frege's account.",
+      "verification": "Retrieved with pipeline retrieve-source; relevant passage inspected; 2026-10-24"
+    },
+    {
+      "id": "11",
+      "citation": "Thomas Aquinas, Summa Theologiae I, q. 2, a. 1, Fathers of the English Dominican Province translation",
+      "url": "https://www.newadvent.org/summa/1002.htm",
+      "locator": "reply to objection 2",
+      "source_type": "primary, translated",
+      "support_and_limits": "Understanding the meaning of 'God' shows existence in the mind, not actual existence. Aquinas still holds God's existence is self-evident in itself.",
+      "verification": "Retrieved with pipeline retrieve-source; relevant passage inspected; 2026-10-24"
+    },
+    {
+      "id": "12",
+      "citation": "Kenneth Einar Himma, Anselm: Ontological Argument for God's Existence, Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/anselm-ontological-argument/",
+      "locator": "§2a–d (argument, Gaunilo and the intrinsic-maximum reply, Aquinas, Kant); §4, part IV (coherence of perfections; Broad)",
+      "source_type": "scholarly reference",
+      "support_and_limits": "Peer-reviewed overview. §2b gives the intrinsic-maximum reply to the island and quotes Broad on maxima; §4 part IV quotes Broad (1953) on compatible perfections. Broad's book was not inspected.",
+      "verification": "Retrieved with pipeline retrieve-source (old /ont-arg/ address resolves here); §2 and §4 part IV inspected; 2026-10-24"
+    },
+    {
+      "id": "13",
+      "citation": "Bertrand Russell, \"My Mental Development,\" in P. A. Schilpp (ed.), The Philosophy of Bertrand Russell (1944)",
+      "url": "https://spot.colorado.edu/~heathwoo/Phil383/matthews",
+      "locator": "p. 10 (quoted in Matthews, \"The Ontological Argument\")",
+      "source_type": "primary, quoted in a secondary reading",
+      "support_and_limits": "The 1894 tobacco-tin anecdote with 'Great Scott'. Wikiquote gives the same words from his Autobiography; Wikipedia quotes a 'Great God in Boots!' version.",
+      "verification": "Quoted passage inspected (Word file, no stored receipt); Schilpp volume not retrieved; 2026-10-30"
+    }
+  ],
+  "wrap_points": [
+    {
+      "text": "Alex suggests a real unicorn isn't a better unicorn",
+      "cue": "a real unicorn isn't a better unicorn"
+    },
+    {
+      "text": "Second question: must anything match the idea?",
+      "cue": "must anything match the idea"
+    },
+    {
+      "text": "A failed proof doesn't disprove God",
+      "cue": "that doesn't disprove God"
+    },
+    {
+      "text": "Is a real God a greater God?",
+      "cue": "Is a real God a greater God"
+    }
+  ]
+}
